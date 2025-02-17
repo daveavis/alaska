@@ -595,7 +595,7 @@ body:not(.sidebar) .wp-block-table.alignfull {
 }
 
 .wp-block-latest-comments .wp-block-latest-comments__comment:not(:first-child) {
-	background: url(/wp-content/themes/twentythirteen/images/dotted-line.png) repeat-x left top;
+	background: url(/alaska/wp-content/themes/twentythirteen/images/dotted-line.png) repeat-x left top;
 	margin-bottom: 0;
 	padding: 24px 0;
 }
